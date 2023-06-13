@@ -7,3 +7,5 @@
 4. 运行main.py 进行训练
 # 注意事项
 数据、模型的目录名记得按照你的目录进行修改
+# 参考论文
+《KETM:A Knowledge enhanced text matching method》
