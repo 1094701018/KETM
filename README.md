@@ -1,4 +1,4 @@
-# KETM
+# DIKE
 基于知识增强的文本匹配模型
 # 运行步骤
 1. 运行add_knowledge生成知识文本，其中维基词典释义文件https://kaikki.org/dictionary/
